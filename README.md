@@ -14,3 +14,6 @@ Enter any amount for conversion
 Interactive, easy-to-use dashboard with metric display and line charts
 
 Persistent session state to remember base currency preference
+
+![Dashboard Screenshot](images/dashboard_screen.png)
+
